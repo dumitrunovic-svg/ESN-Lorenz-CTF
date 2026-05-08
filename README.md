@@ -4,7 +4,7 @@ Echo State Network with evolved hyperparameters for the [CTF for Science](https:
 
 ---
 
-**Developed with [inZOR-ND](https://dumitrunovic-svg.github.io/inZOR-ND/) · Built using [Cursor](https://cursor.com)**
+**Developed with [inZOR-ND](https://dumitrunovic-svg.github.io/inZOR-ND/)**
 
 ---
 
