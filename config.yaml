@@ -1,0 +1,14 @@
+dataset:
+  name: Lorenz_Official
+
+model:
+  name: ZOR_ESN
+  reservoir_size: 500
+  spectral_radius: 1.00164
+  input_scaling: 0.1
+  leaking_rate: 1.0
+  ridge_alpha: 3.35e-05
+  washout: 100
+
+evaluation:
+  pair_ids: all
