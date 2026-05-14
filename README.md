@@ -2,6 +2,13 @@
 
 Echo State Network with evolved hyperparameters for the [CTF for Science](https://ctf-for-science.github.io/ctf4science/) Lorenz benchmark.
 
+## Submission
+
+- **Official dataset:** `Lorenz_Official`
+- **ctf4science PR:** [CTF-for-Science/ctf4science#19](https://github.com/CTF-for-Science/ctf4science/pull/19)
+- **Integration path:** `models/ESN_Tuned` as a Git submodule
+
+
 ---
 
 **Developed with [inZOR-ND](https://dumitrunovic-svg.github.io/inZOR-ND/)**
